@@ -1,0 +1,19 @@
+{
+  "name": "SERVO-CRAB",
+  "tree": {
+    "lab": "OOZE LAB · ARBORETUM 001",
+    "pictures": {
+      "asleep": "nap/asleep.webp",
+      "bonked": "nap/bonked.webp",
+      "backdrop": "nap/scene.webp"
+    },
+    "sounds": {
+      "soon": "ding.mp3",
+      "now": "dive-klaxon.mp3"
+    },
+    "toasts": {
+      "soon": "🌳 Tree time's coming. Context at {percent}%. Start wrapping up.",
+      "now": "🚨 DIVE! DIVE! Tree time! Context at {percent}%. Write the handoff, then clear."
+    }
+  }
+}

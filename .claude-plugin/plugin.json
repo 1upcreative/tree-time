@@ -1,0 +1,1 @@
+{ "name": "tree-time", "version": "0.1.0", "description": "A tree that ripens as your context window fills. At 80% a plum drops on the napping specimen and tells you to write a handoff and clear. Bring your own mascot.", "author": { "name": "1UP Creative" }, "types": "./types/index.d.ts" }
